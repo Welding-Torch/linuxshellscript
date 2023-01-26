@@ -27,6 +27,11 @@ Follow this procedure for each Shell Script.
 4.sh - Display current logged in user and log name.
 
 5.sh - Display current shell, home directory, operating system type, current path setting, current working directory.
+
+## Syllabus Section
+
+![image](https://user-images.githubusercontent.com/46340124/214917905-47488dce-de1b-43b3-bbd3-c78b2fa4fe77.png)
+
  
 ## Contributing
 
