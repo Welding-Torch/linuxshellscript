@@ -16,6 +16,8 @@ chmod 755 1.sh
 
 Follow this procedure for each Shell Script.
 
+*Tip: The shorthand 755 is often used for scripts as it allows you the owner to write or modify the script and for everyone to execute the script.*
+
 ## Scripts List
 
 1.sh - Display OS version, release number, kernel version.
