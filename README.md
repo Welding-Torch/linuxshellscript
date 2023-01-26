@@ -9,7 +9,7 @@ git clone https://github.com/Welding-Torch/linuxshellscript.git
 
 ## Usage
 ```bash
-ch linuxshellscript
+cd linuxshellscript
 chmod 755 1.sh 
 ./1.sh
 ```
